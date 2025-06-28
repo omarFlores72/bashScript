@@ -1,0 +1,9 @@
+ el numero es 1
+ el numero es 2
+ el numero es 3
+ el numero es 4
+ el numero es 5
+ el numero es 6
+ el numero es 7
+ el numero es 8
+ el numero es 9

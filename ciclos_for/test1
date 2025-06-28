@@ -1,0 +1,7 @@
+#!/bin/bash
+#comandos for
+
+for test in Mexico, Scotland, Spain, Arizona, Germany
+do
+  echo the next country is $test
+done

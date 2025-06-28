@@ -1,0 +1,7 @@
+#!/bin/bash
+#probando un comando incorrecto
+if NoSoyUnComando
+then
+    echo "trabajando"
+fi
+echo  "saliendo del if"

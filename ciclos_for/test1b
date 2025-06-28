@@ -1,0 +1,11 @@
+#!/bin/bash
+#haciendo un for despues del loop
+
+for test in Mexico, Scotland, Spain, Arizona, Germany
+do
+  echo "the next country is $test"
+done
+echo "The last Country visited was $test"
+test=Colombia
+echo "wait, now we're visiting $test"
+
